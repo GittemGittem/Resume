@@ -1,0 +1,11 @@
+I have been using windows subsystem for linux to get to know linux better
+and so far I really enjoy it!
+but I also have experience downloading linux or windows images and setting up dual boot on computers
+
+and have also used linux virtual machines over the cloud on some of my assignments
+
+I believe it is important to have experience with windows and linux for any technical career
+because both will certainly be involved
+
+I also know the basics of bash scripting and I am learning more:)
+

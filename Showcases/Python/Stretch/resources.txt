@@ -1,0 +1,9 @@
+This is the video that inspired me to start making my own programming language
+It breaks down the process in a way that makes it easy to understand
+Following this tutorial you can make a simple expression evaluator and then start to expand your design
+https://youtu.be/Q2UDHY5as90?si=Mm2hJ4f4xcca82so
+
+
+
+The repository for stretch!
+https://github.com/GittemGittem/Stretch/tree/experimental
